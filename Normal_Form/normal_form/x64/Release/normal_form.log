@@ -1,0 +1,8 @@
+﻿  main.cpp
+x64\Release\normal_form.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  11 of 886 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  normal_form.vcxproj -> D:\keyan\projects\catalogue\Normal_Form\x64\Release\normal_form.exe

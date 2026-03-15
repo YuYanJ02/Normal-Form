@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\keyan\\projects\\catalogue\\Normal_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|solutionrelative:normal_form\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|solutionrelative:normal_form\\normal_form.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|solutionrelative:normal_form\\normal_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC9B0D-F4A9-4E18-8EF9-E8BC179429F7}|normal_form\\normal_form.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\PROFESSIONAL\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XHASH||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\main.cpp",
+              "RelativeDocumentMoniker": "normal_form\\main.cpp",
+              "ToolTip": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\main.cpp",
+              "RelativeToolTip": "normal_form\\main.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T12:37:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "xhash",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\xhash",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\xhash",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwHUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-12T14:26:57.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "normal_form.cpp",
+              "DocumentMoniker": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.cpp",
+              "RelativeDocumentMoniker": "normal_form\\normal_form.cpp",
+              "ToolTip": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.cpp",
+              "RelativeToolTip": "normal_form\\normal_form.cpp",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAAALMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T12:36:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "normal_form.hpp",
+              "DocumentMoniker": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.hpp",
+              "RelativeDocumentMoniker": "normal_form\\normal_form.hpp",
+              "ToolTip": "D:\\keyan\\projects\\catalogue\\Normal_Form\\normal_form\\normal_form.hpp",
+              "RelativeToolTip": "normal_form\\normal_form.hpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwH8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T12:35:10.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
